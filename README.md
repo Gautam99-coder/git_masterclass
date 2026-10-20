@@ -1,6 +1,6 @@
 # Git Master Practice
 
-I am revising Git and GitHub.
+Learning git like a professional Developer
 
 ## Goals
 - Learn version control
